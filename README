@@ -1,0 +1,11 @@
+🚀 Todo List App
+A beautiful, responsive Todo List built with HTML, CSS & JavaScript. Add, delete, mark complete tasks with localStorage persistence!
+
+✨ Features
+✅ Add Tasks (Click Add or Enter key)
+✅ Mark Complete (Click task → beautiful circle animation)
+✅ Delete Tasks (× button)
+✅ Data Persists (localStorage - survives refresh)
+✅ Smooth Animations & Hover Effects
+✅ Fully Responsive (Mobile + Desktop)
+✅ Modern Gradient UI
