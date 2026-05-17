@@ -7,5 +7,5 @@ A beautiful, responsive Todo List built with HTML, CSS & JavaScript. Add, delete
 ✅ Delete Tasks (× button)
 ✅ Data Persists (localStorage - survives refresh)
 ✅ Smooth Animations & Hover Effects
-✅ Fully Responsive (Mobile + Desktop)
+✅ Fully Responsive
 ✅ Modern Gradient UI
